@@ -2,6 +2,17 @@
 
 Para realizar el pago del refrendo vehicular en Jalisco, necesitas los siguientes datos:
 
-- Placas del vehículo
-- Los últimos 5 dígitos del número de serie
-- Usar el siguiente link: <a href="https://gobiernoenlinea1.jalisco.gob.mx/serviciosVehiculares/adeudos" target="_blank">Refrendo Vehicular Jalisco</a>
+
+1. Entrar a la pagina https://gobiernoenlinea1.jalisco.gob.mx/serviciosVehiculares/adeudos
+   
+   Para consultar los adeudos necesitaras:
+   * proporcione la placa 
+   * al menos los últimos cinco caracteres del número de serie
+   * nombre del propietario
+   * número de motor de su vehículo
+   
+   _NOTA_: toda esta información **tal cual** aparece en su tarjeta de circulación.
+
+2. Una vez que has ingresado correctamente los datos, podras ver el total de adeudos, el cual incluye el refrendo.
+
+3. Sigue las instrucciones del pago, dependiendo de la institucion bancaria que uses.
