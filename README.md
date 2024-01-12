@@ -14,7 +14,7 @@ Antes de realizar cualquier trámite, es importante consultar la información of
 
 ### Agradecimiento
 
-Agradezco su comprensión.
+Agradezco su comprensión (asi como el tiempo dedicado a usar estos documentos).
 
 ### Ejemplo
 
