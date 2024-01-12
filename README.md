@@ -32,3 +32,23 @@ Si no se cuenta con toda la documentación, es posible que el trámite no se pue
 Este tip es de carácter personal y puede no ser aplicable a todos los casos. Por ejemplo, si el trámite es para solicitar una licencia de conducir, es posible que se requieran otros documentos, como un examen médico o una fotografía.
 
 Por lo tanto, es importante consultar la información oficial del ayuntamiento antes de realizar el trámite.
+
+## Indice
+
+### Predial
+
+  1. https://github.com/frantizek/tramites/tree/main/predial
+
+### Refrendo Vehicular
+
+  1. https://github.com/frantizek/tramites/tree/main/refrendo
+
+### SAT
+
+  1. https://github.com/frantizek/tramites/tree/main/sat
+
+### Siapa
+
+  1. https://github.com/frantizek/tramites/tree/main/siapa
+
+
