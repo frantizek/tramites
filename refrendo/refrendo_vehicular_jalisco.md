@@ -13,6 +13,9 @@ Para realizar el pago del refrendo vehicular en Jalisco, necesitas los siguiente
    
    _NOTA_: toda esta información **tal cual** aparece en su tarjeta de circulación.
 
-2. Una vez que has ingresado correctamente los datos, podras ver el total de adeudos, el cual incluye el refrendo.
+   _ADVERTENCIA_: **No** uses acentos.
+   
 
-3. Sigue las instrucciones del pago, dependiendo de la institucion bancaria que uses.
+3. Una vez que has ingresado correctamente los datos, podras ver el total de adeudos, el cual incluye el refrendo.
+
+4. Sigue las instrucciones del pago, dependiendo de la institucion bancaria que uses.
