@@ -37,18 +37,18 @@ Por lo tanto, es importante consultar la información oficial del ayuntamiento a
 
 ### Predial
 
-  1. https://github.com/frantizek/tramites/tree/main/predial[https://github.com/frantizek/tramites/tree/main/predial]
+  1. [https://github.com/frantizek/tramites/tree/main/predial]
 
 ### Refrendo Vehicular
 
-  1. https://github.com/frantizek/tramites/tree/main/refrendo[https://github.com/frantizek/tramites/tree/main/refrendo]
+  1. [https://github.com/frantizek/tramites/tree/main/refrendo]
 
 ### SAT
 
-  1. https://github.com/frantizek/tramites/tree/main/sat[https://github.com/frantizek/tramites/tree/main/sat]
+  1. [https://github.com/frantizek/tramites/tree/main/sat]
 
 ### Siapa
 
-  1. https://github.com/frantizek/tramites/tree/main/siapa[https://github.com/frantizek/tramites/tree/main/siapa]
+  1. [https://github.com/frantizek/tramites/tree/main/siapa]
 
 
